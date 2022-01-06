@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ixihatinn
 - 👀 I’m interested in Audio Programming. I am hoping to make some vsts, reverbs plug-ins, or interactive apps for sound design purposes.
-- 🌱 I’m currently relearning HTML, CSS, JAVAscipt, C++, CSOUND. If i need to learn anything else, i will give it a try.
-- 💞️ I’m looking to collaborate on I don't know. I feel like i have a lot to learn, on my own, for now. 
+- 🌱 I’m currently relearning HTML, CSS, JAVAscipt, C++, CSOUND. If I need to learn anything else, I will give it a try.
+- 💞️ I’m looking to collaborate on I don't know. I feel like I have a lot to learn, on my own, for now. 
 - 📫 How to reach me ... don't.
 
 <!---
